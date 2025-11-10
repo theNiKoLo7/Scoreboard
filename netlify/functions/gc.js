@@ -4,7 +4,7 @@ exports.handler = async () => {
   try {
     // 1. Put your real TEAM url here
     // Example: https://web.gc.com/teams/123abc456
-    const TEAM_URL = "https://web.gc.com/teams/jwYFGs2kbEme/2026-winter-test-gc-10u";
+    const TEAM_URL = https://web.gc.com/teams/jwYFGs2kbEme/2026-winter-test-gc-10u;
 
     // 2. Fetch the team page
     const resp = await fetch(TEAM_URL);
